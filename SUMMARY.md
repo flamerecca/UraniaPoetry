@@ -10,6 +10,7 @@
 * [淚水像血不停的流](/tearsLikeBlood.md)
 * [代表人性的古老大鐘](/oldBell.md)
 * [我從不會為了消失的人而哭](/DontCry.md)
+* [努力尋求一種站立姿勢](/stand.md)
 
 
 
