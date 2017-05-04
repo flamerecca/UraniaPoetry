@@ -14,4 +14,6 @@
 * [氣球](qi-qiu.md)
 * [Logician ](jiao.md)
 * [七月](qi-yue.md)
+* [水晶娃娃](shui-jing-wa-wa.md)
+* [屍](shi.md)
 
